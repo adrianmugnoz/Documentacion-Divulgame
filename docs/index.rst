@@ -10,6 +10,7 @@ En este espacio encontrarás toda la información para el uso de Divúlgame.
 
 Podrás ayudar a su construcción mediante Pull Request en Github.
 
+.. note:: Documentación en construcción.
 
 .. _site-docs:
 
