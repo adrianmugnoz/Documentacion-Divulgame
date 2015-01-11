@@ -1,5 +1,7 @@
 
-|divulgame|
+
+.. image:: http://i.imgur.com/gRAbTVS.png 
+    :align: center
 
 Bienvenido a la documentación de Divúlgame
 ========================
@@ -42,5 +44,3 @@ Business Documentation
 
    business/index
 
-.. |divulgame| image:: http://i.imgur.com/gRAbTVS.png 
-    :align: center
