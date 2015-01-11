@@ -1,4 +1,4 @@
-Alternate Domains
+Subs
 =================
 
 Read the Docs supports a number of custom domains for your convenience. Shorter urls make everyone happy, and we like making people happy!
