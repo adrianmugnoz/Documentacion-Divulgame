@@ -1,3 +1,6 @@
+
+|divulgame|
+
 Bienvenido a la documentación de Divúlgame
 ========================
 
@@ -39,3 +42,4 @@ Business Documentation
 
    business/index
 
+.. |divulgame| image:: http://i.imgur.com/F8FWUPx.png
