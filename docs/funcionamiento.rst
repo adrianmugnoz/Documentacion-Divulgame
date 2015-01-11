@@ -1,4 +1,4 @@
-Automatic Redirects
+Funcionamiento
 ===================
 
 Read the Docs supports redirecting certain URLs automatically.
