@@ -1,4 +1,4 @@
-Badges
+Reglas
 ======
 
 Badges let you show the state of your documentation to your users.
