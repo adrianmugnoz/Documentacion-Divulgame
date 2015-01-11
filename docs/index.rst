@@ -20,7 +20,11 @@ Documentación del sistema
     :maxdepth: 2
 
     getting_started
-    versions
+    subs
+    architecture
+    funcionamiento
+    reglas
+    faq
 
 .. _feature-docs:
 
@@ -31,8 +35,7 @@ Documentación de comunidad
     :maxdepth: 2
 
     webhooks
-    badges
-    alternate_domains
+    
 
 .. _business-docs:
 
