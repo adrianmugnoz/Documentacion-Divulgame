@@ -1,7 +1,7 @@
 Comenzando
 ===============
 
-En esta documentación se tratará el uso de Divúlgame por parte de las universidades.
+En este apartado se explicará como comenzar a usar Divúlgame.
 
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
