@@ -18,7 +18,7 @@ extensions = [
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'Divúlgame Universidades'
+project = u'Divúlgame Wiki'
 copyright = u'2015, Adrián Muñoz'
 version = '1.0'
 release = '1.0'
@@ -34,11 +34,11 @@ intersphinx_mapping = {
 #html_static_path = ['_static']
 htmlhelp_basename = 'ReadTheDocsdoc'
 latex_documents = [
-    ('index', 'ReadTheDocs.tex', u'Divúlgame Universidades Documentación',
+    ('index', 'ReadTheDocs.tex', u'Divúlgame Wiki',
      u'Adrián Muñoz', 'manual'),
 ]
 man_pages = [
-    ('index', 'read-the-docs', u'Divúlgame Universidades Documentación',
+    ('index', 'read-the-docs', u'Divúlgame Wiki',
      [u'Adrián Muñoz'], 1)
 ]
 
