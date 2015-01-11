@@ -26,6 +26,8 @@ Esto es una ``caja`` in there::
 
 .. note:: Se pueden usar notas que quedan bastante bien.
 
+.. Tip:: También tips
+
 Sección 2:
 -------------------
 .. _a screencast: https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
