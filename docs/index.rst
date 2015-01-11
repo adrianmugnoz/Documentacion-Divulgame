@@ -42,4 +42,5 @@ Business Documentation
 
    business/index
 
-.. |divulgame| image:: http://i.imgur.com/gRAbTVS.png :align: center
+.. |divulgame| image:: http://i.imgur.com/gRAbTVS.png 
+    :align: center
