@@ -10,7 +10,7 @@ dale             .. image:: http://muyinteresante.cat/img/smileys/dale.gif
 True             a
 False  
 True   
-===========  =============================================================  
+==============  =============================================================  
 
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
