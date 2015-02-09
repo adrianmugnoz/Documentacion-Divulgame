@@ -3,6 +3,23 @@ Comenzando
 
 En este apartado se explicará como comenzar a usar Divúlgame.
 
+| Qué escribir | Icono |
+|--------------|-------|
+| dale2        |       |
+| mola         |       |
+| qmeparto     |       |
+| nusenuse     |       |
+| palomitas    |       |
+| risas        |       |
+| gnomito      |       |
+| sisi         |       |
+| jajano       |       |
+| eaea         |       |
+| laleche      |       |
+| sherlock     |       |
+| qtedoy       |       |
+|              |       |
+
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
 
