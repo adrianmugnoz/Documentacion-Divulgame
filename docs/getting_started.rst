@@ -3,29 +3,14 @@ Comenzando
 
 En este apartado se explicará como comenzar a usar Divúlgame.
 
-| Qué escribir | Icono |
-|--------------|-------|
-| dale2        |       |
-| mola         |       |
-| qmeparto     |       |
-| nusenuse     |       |
-| palomitas    |       |
-| risas        |       |
-| gnomito      |       |
-| sisi         |       |
-| jajano       |       |
-| eaea         |       |
-| laleche      |       |
-| sherlock     |       |
-| qtedoy       |       |
-|              |       |
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+==============  =============================================================  
+Qué escribir     Icono
+==============  ============================================================= 
+dale             .. image:: http://muyinteresante.cat/img/smileys/dale.gif
+True             a
+False  
+True   
+===========  =============================================================  
 
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
@@ -68,3 +53,4 @@ Sección 2:
 .. _dashboard: http://readthedocs.org/dashboard
 .. _Import: http://readthedocs.org/dashboard/import
 .. _Post Commit Hooks: http://readthedocs.org/docs/read-the-docs/en/latest/webhooks.html 
+
