@@ -3,9 +3,9 @@ Comenzando
 
 En este apartado se explicará como comenzar a usar Divúlgame.
 
-==============  =============================================================  
+==============  ==================================================================  
 Qué escribir     Icono
-==============  ============================================================= 
+==============  ================================================================== 
 dale             .. image:: http://muyinteresante.cat/img/smileys/dale.gif
 mola             .. image:: http://muyinteresante.cat/img/smileys/mola.gif
 qmeparto         .. image:: http://muyinteresante.cat/img/smileys/qmeparto.gif
@@ -22,7 +22,7 @@ qtedoy           .. image:: http://muyinteresante.cat/img/smileys/qtedoy.gif
 esdios           .. image:: http://muyinteresante.cat/img/smileys/esdios.gif
 monoloco         .. image:: http://muyinteresante.cat/img/smileys/monoloco.gif
 delfin           .. image:: http://muyinteresante.cat/img/smileys/delfin.gif
-==============  =============================================================  
+==============  ==================================================================  
 
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
