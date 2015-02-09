@@ -24,6 +24,7 @@ Documentación del sistema
     subs
     architecture
     funcionamiento
+    notame
     reglas
     faq
 
