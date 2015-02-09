@@ -20,6 +20,13 @@ En este apartado se explicará como comenzar a usar Divúlgame.
 | qtedoy       |       |
 |              |       |
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
 
