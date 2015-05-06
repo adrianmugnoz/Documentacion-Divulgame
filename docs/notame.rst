@@ -12,22 +12,22 @@ Emoticonos
 ==============  =============================================================  
 Qué escribir     Icono
 ==============  ============================================================= 
-{dale}             .. image:: http://muyinteresante.cat/img/smileys/dale.gif
-{mola}             .. image:: http://muyinteresante.cat/img/smileys/mola.gif
-{qmeparto}         .. image:: http://muyinteresante.cat/img/smileys/qmeparto.gif
-{nusenuse}         .. image:: http://muyinteresante.cat/img/smileys/nusenuse.gif
-{palomitas}        .. image:: http://muyinteresante.cat/img/smileys/palomitas.gif
-{risas}            .. image:: http://muyinteresante.cat/img/smileys/risas.gif
-{gnomito}          .. image:: http://muyinteresante.cat/img/smileys/gnomito.gif
-{sisi}             .. image:: http://muyinteresante.cat/img/smileys/sisi.gif
-{jajano}           .. image:: http://muyinteresante.cat/img/smileys/jajano.gif
-{eaea}             .. image:: http://muyinteresante.cat/img/smileys/eaea.gif
-{laleche}          .. image:: http://muyinteresante.cat/img/smileys/laleche.gif
-{sherlock}         .. image:: http://muyinteresante.cat/img/smileys/sherlock.gif
-{qtedoy}           .. image:: http://muyinteresante.cat/img/smileys/qtedoy.gif
-{esdios}           .. image:: http://muyinteresante.cat/img/smileys/esdios.gif
-{monoloco}         .. image:: http://muyinteresante.cat/img/smileys/monoloco.gif
-{delfin}           .. image:: http://muyinteresante.cat/img/smileys/delfin.gif
+{dale}             .. image:: http://divulgame.net/img/smileys/dale.gif
+{mola}             .. image:: http://divulgame.net/img/smileys/mola.gif
+{qmeparto}         .. image:: http://divulgame.net/img/smileys/qmeparto.gif
+{nusenuse}         .. image:: http://divulgame.net/img/smileys/nusenuse.gif
+{palomitas}        .. image:: http://divulgame.net/img/smileys/palomitas.gif
+{risas}            .. image:: http://divulgame.net/img/smileys/risas.gif
+{gnomito}          .. image:: http://divulgame.net/img/smileys/gnomito.gif
+{sisi}             .. image:: http://divulgame.net/img/smileys/sisi.gif
+{jajano}           .. image:: http://divulgame.net/img/smileys/jajano.gif
+{eaea}             .. image:: http://divulgame.net/img/smileys/eaea.gif
+{laleche}          .. image:: http://divulgame.net/img/smileys/laleche.gif
+{sherlock}         .. image:: http://divulgame.net/img/smileys/sherlock.gif
+{qtedoy}           .. image:: http://divulgame.net/img/smileys/qtedoy.gif
+{esdios}           .. image:: http://divulgame.net/img/smileys/esdios.gif
+{monoloco}         .. image:: http://divulgame.net/img/smileys/monoloco.gif
+{delfin}           .. image:: http://divulgame.net/img/smileys/delfin.gif
 ==============  =============================================================  
 
 
