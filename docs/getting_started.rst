@@ -1,47 +1,18 @@
 Comenzando
 ===============
 
-En este apartado se explicará como comenzar a usar Divúlgame.
+En esta documentación se tratará el uso de Divúlgame por parte de las universidades.
 
-Esto es un salto a otra parte de la documentación
-:ref:`import-docs`.
-
-Sección 1
+¿Qué es Divúlgame?
 ---------------
+Divúlgame es una red social de divulgación científica, cultural y tecnológica basada en la selección de contenidos mediante un sistema de votación.
 
-Más saltos:
+.. note:: Si ya conoces Menéame, Divúlgame te resultará familiar, pues está basado en su software.
 
-* :ref:`in-rst`
-* :ref:`in-markdown`
-
-.. _in-rst:
-
-Subtítulo
-~~~~~~~~~~~~~~~~~~~
-
-Esto es una ``caja`` in there::
-
-    $ código
-    $ más código
-
-.. note:: Se pueden usar notas que quedan bastante bien.
-
-.. Tip:: También tips
-
-Sección 2:
+¿Qué es Divúlgame Universidades?
 -------------------
-.. _a screencast: https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
-.. _Python: https://www.python.org/
-.. _Sphinx: http://sphinx-doc.org/
-.. _Markdown: http://daringfireball.net/projects/markdown/syntax
-.. _Mkdocs: http://www.mkdocs.org/
-.. _install Sphinx: http://sphinx-doc.org/latest/install.html
-.. _install Mkdocs: http://www.mkdocs.org/#installation
-.. _reStructuredText: http://sphinx-doc.org/rest.html
-.. _this template: http://docs.writethedocs.org/en/latest/writing/beginners-guide-to-docs/#id1
-.. _Sign up: http://readthedocs.org/accounts/signup
-.. _log in: http://readthedocs.org/accounts/login
-.. _dashboard: http://readthedocs.org/dashboard
-.. _Import: http://readthedocs.org/dashboard/import
-.. _Post Commit Hooks: http://readthedocs.org/docs/read-the-docs/en/latest/webhooks.html 
+Desde Divúlgame queremos crear un espacio que reuna las noticias y actividades de las universidades españolas, y es por ello que surge la Edición Universidades.
+Esto es algo pionero en España y que favorecerá la interacción y la visibilidad de las universidades.
+
+Nuestra idea es que se use por parte de las universidades de la misma manera que usan su página de Facebook o Twitter, con la principal diferencia de que nuestro público es un público objetivo para las universidades y se podrán seguir las noticias de todas ellas en la edición exclusiva para universidades; lo que podrá proporcionar visibilidad entre personas no afines a la universidad que de otro modo no se tendría.
 
