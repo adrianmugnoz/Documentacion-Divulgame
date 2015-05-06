@@ -1,51 +1,18 @@
-
-
-.. image:: http://i.imgur.com/gRAbTVS.png 
-    :align: center
-
-Bienvenido a la documentación de Divúlgame
+Bienvenido a la documentación para Universidades
 ========================
 
-En este espacio encontrarás toda la información para el uso de Divúlgame.
+En este espacio se darán las directrices básicas para el uso de Divúlgame en su edición Universidades.
 
-Podrás ayudar a su construcción mediante Pull Request en Github.
 
-.. note:: Documentación en construcción.
-
-.. _site-docs:
-
-Documentación del sistema
+Índice
 ------------------
 
 .. toctree::
     :maxdepth: 2
 
     getting_started
-    subs
-    architecture
-    funcionamiento
-    notame
-    reglas
+    perfiles
+    creacion_sub
+    edicion_universidades
+    usos
     faq
-
-.. _feature-docs:
-
-Documentación de comunidad
-~~~~~~~~
-
-.. toctree::
-    :maxdepth: 2
-
-    webhooks
-    
-
-.. _business-docs:
-
-Business Documentation
-----------------------
-
-.. toctree::
-    :maxdepth: 2
-
-   business/index
-
